@@ -31,7 +31,7 @@ CREDITS: 40
 
 ## Example
 
-
+<img width="862" height="948" alt="image" src="https://github.com/user-attachments/assets/ae65baf6-e0f2-4472-9cf9-d7bc435760a1" />
 
 ## Notes
 
