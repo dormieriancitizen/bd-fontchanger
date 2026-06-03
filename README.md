@@ -1,4 +1,4 @@
-# bd-labelmaker
+# bd-fontchanger
 
 Change the card fonts without restarts or code changes.
 
