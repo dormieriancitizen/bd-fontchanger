@@ -52,6 +52,7 @@ class FontchangerCog(commands.Cog):
                     image_gen.credits_font = truetype
 
     @commands.command()
+    @commands.is_owner()
     async def fontchanger_reloadconf(self, ctx: commands.Context["BallsDexBot"]):
         await self.monkeypatch()
         await ctx.reply("Sucessfully applied fonts!")
